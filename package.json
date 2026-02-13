@@ -5,8 +5,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node --watch CRUD/server.js",
-    "import-csv": "npm run import-csv"
+    "dev": "node --watch src/server.js",
+    "import:csv": "node src/import-csv.js"
   },
   "keywords": [],
   "author": "",
