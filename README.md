@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto consiste em uma API REST desenvolvida com Node.js puro, sem uso de frameworks como Express, com o objetivo de compreender os fundamentos do backend, incluindo:
+Este projeto consiste em uma API RESTful desenvolvida com Node.js puro, sem uso de frameworks como Express, com o objetivo de compreender os fundamentos do backend, incluindo:
 
 - Criação de servidor HTTP
 
